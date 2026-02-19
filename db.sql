@@ -1,0 +1,2 @@
+create database bookmark_db
+use bookmark_db
