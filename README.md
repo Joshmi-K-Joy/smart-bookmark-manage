@@ -47,7 +47,7 @@ This project emphasizes clean backend architecture, RESTful API design, and prop
 
 ---
 
-## 🗂️ Database Schema
+##  Database Schema
 
 **Bookmark Table:**
 
